@@ -3,7 +3,7 @@ name = "SigmaOS-arch-opengl-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-opengl-kernel component"
+description = "SigmaOS SigmaOS-arch-opengl-kernel component"
 upstream = []
 
 [contract]
